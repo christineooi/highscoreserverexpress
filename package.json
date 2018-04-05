@@ -1,0 +1,16 @@
+{
+  "name": "highscoreserverexpress",
+  "version": "1.0.0",
+  "description": "High score server using Express for routiing logic",
+  "main": "scores.js",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
